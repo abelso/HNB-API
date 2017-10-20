@@ -4,7 +4,7 @@ This API simply returns JSON readable exchange rate data from HNB (Croatian Nati
 
 ## Example
 
-code(  
+```json
 {
   "currency_code": "036",
   "currency": "AUD",
@@ -15,7 +15,7 @@ code(
     "selling": 5.001295
   }
 }
-)
+```
 
 ## Future plans
 
